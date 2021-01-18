@@ -265,29 +265,29 @@ p.description {
   box-shadow: none;
 }
 
-.btn-green-peppers {
+.btn-peppers {
   background: #129306;
   box-shadow: 0 6px #0a5203;
   color: #fff;
 }
 
-.btn-green-peppers:hover {
+.btn-peppers:hover {
   background: #0e7205;
   box-shadow: 0 5px #063102;
   color: #fff;
 }
 
-.btn-green-peppers.active {
+.btn-peppers.active {
   top: 2px;
   box-shadow: 0 2px #0a5203;
 }
 
-.btn-green-peppers.active:hover {
+.btn-peppers.active:hover {
   box-shadow: 0 2px #063102;
 }
 
-.btn-green-peppers:active,
-.btn-green-peppers.active:active {
+.btn-peppers:active,
+.btn-peppers.active:active {
   top: 5px;
   box-shadow: none;
 }
